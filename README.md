@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning full stack dev,pyhton.
 - 💞️ I’m looking to collaborate on variety of projects and activities including- open source projects,code reviews, learning and mentorship.
-- 📫 How to reach me gmail-ramandeepkaur@gmail.com
+- 📫 How to reach me ramandeepkaur@gmail.com
   
 
 <!---
